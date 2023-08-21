@@ -21,7 +21,8 @@
 
 支付宝替换：`qrcode`后面的值改为自己的收款码链接
 
-`alipays://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx17568wleuqk0ebdb8ia3`
+
+`alipays://platformapi/startapp?saId=10000007&qrcode=https://qr.alipay.com/fkx10486ybxbap2kz0z6c94`
 
 ### 替换为自己的leancloud API key
 
